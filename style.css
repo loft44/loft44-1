@@ -67,7 +67,7 @@ blockquote.right {
 
 /*Wordpress editor styles end*/
 
-/*Karoon website styles start*/
+/*Website styles start*/
 @import url(http://fonts.googleapis.com/css?family=Kreon:400,700);
 
 html,
@@ -284,7 +284,7 @@ section {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(20,20,20,0.2)),to(rgba(255,255,255,0)), color-stop(1,#000));
 }
 
-/*Karoon website styles end*/
+/*Website styles end*/
 
 
 
